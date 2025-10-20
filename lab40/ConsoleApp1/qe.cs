@@ -53,5 +53,23 @@ namespace ConsoleApp1
 
         }
 
+        public double[] GetRoots()
+        {
+            int D = B * B - 4 * A * C;
+            if (D > 0)
+            {
+                double x1 = (-B + Math.Sqrt(D)) / (2 * A);
+                double x2 = (-B - Math.Sqrt(D)) / (2 * A);
+
+                return new[] { x1, x2 };
+            }
+            else if (D == 0)
+            {
+                double x1 = (double)-B / (2 * A);
+                return new[] { x1 };
+            }
+            return Array.Empty<double>();
+        }
+
     }
 }

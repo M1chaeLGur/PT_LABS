@@ -1,0 +1,16 @@
+M:\REPOS\PT_LABS\lab4\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.exe
+M:\REPOS\PT_LABS\lab4\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.deps.json
+M:\REPOS\PT_LABS\lab4\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.json
+M:\REPOS\PT_LABS\lab4\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.dev.json
+M:\REPOS\PT_LABS\lab4\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.dll
+M:\REPOS\PT_LABS\lab4\ConsoleApp1\bin\Debug\net5.0\ref\ConsoleApp1.dll
+M:\REPOS\PT_LABS\lab4\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.pdb
+M:\REPOS\PT_LABS\lab4\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csprojAssemblyReference.cache
+M:\REPOS\PT_LABS\lab4\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+M:\REPOS\PT_LABS\lab4\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfoInputs.cache
+M:\REPOS\PT_LABS\lab4\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfo.cs
+M:\REPOS\PT_LABS\lab4\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+M:\REPOS\PT_LABS\lab4\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.dll
+M:\REPOS\PT_LABS\lab4\ConsoleApp1\obj\Debug\net5.0\ref\ConsoleApp1.dll
+M:\REPOS\PT_LABS\lab4\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.pdb
+M:\REPOS\PT_LABS\lab4\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.genruntimeconfig.cache

@@ -25,6 +25,8 @@ namespace ConsoleApp1
                 Console.WriteLine($"Root = {root} ");
             }
 
+
+            Console.WriteLine("get roots of equation 2: ");
             foreach (double root in eq2.GetRoots())
             {
                 Console.WriteLine($"Root = {root} ");
