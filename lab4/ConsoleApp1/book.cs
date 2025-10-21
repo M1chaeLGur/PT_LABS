@@ -7,25 +7,48 @@ namespace Book
     {
         public string name;
         public string author;
-        public int printed;
-        public int pages;
+        private int printed;
+        private int pages;
 
         public ClassForBooks(string name, string author, int printed, int pages)
         {
             this.name = name;
             this.author = author;
+            this.Printed = printed;
+            this.Pages = pages;
 
-            if (printed <= 0 || pages <= 0)
+        }
+        public int Printed
+        {
+            get { return this.printed; }
+            set
             {
-                Console.WriteLine("Значения года издания и количества страниц введены неверно, проверьте данные еще раз.");
-            }
-            else
-            {
-                this.printed = printed;
-
-                this.pages = pages;
+                if (value <= 0)
+                {
+                    Console.WriteLine("Год издания не может быть равен 0!");
+                }
+                else
+                {
+                    this.printed = value;
+                }
             }
         }
+         public int Pages
+        {
+            get { return this.pages; }
+            set
+            {
+                if (value <= 0)
+                {
+                    Console.WriteLine("Количество страниц не может быть равно 0!");
+                }
+                else
+                {
+                    this.pages = value;
+                }
+            }
+        }
+        
         public void PrintBookInfo()
         {
             Console.WriteLine($"КНИГА: ");
@@ -33,13 +56,11 @@ namespace Book
             Console.WriteLine($"АВТОР: {author}");
             Console.WriteLine($"ГОД ИЗДАНИЯ: {printed}");
             Console.WriteLine($"КОЛИЧЕСТВО СТРАНИЦ: {pages}");
+            Console.WriteLine(" ");
         }
-        public void IsAntique()
+        public bool IsAntique()
         {
-            if (2025- printed > 50)
-            {
-                Console.WriteLine("Данная книга - антикварная");
-            }
+            return 2025 - printed > 50;
         }
 
     }
