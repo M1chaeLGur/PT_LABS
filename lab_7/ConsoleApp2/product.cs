@@ -25,5 +25,11 @@ namespace ProductMainClass
             return $"{ProductName}: {RubPKilo} $/кг * {ProdInKilos}кг = {total}";
         }
     }
+    
+    public interface IDiscountable
+    {
+        double GetDiscount();
+
+    }
 }
 
