@@ -1,0 +1,5 @@
+M:\REPOS\PT_LABS\lab_7\ConsoleApp2\obj\Debug\net5.0\ConsoleApp2.csprojAssemblyReference.cache
+M:\REPOS\PT_LABS\lab_7\ConsoleApp2\obj\Debug\net5.0\ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+M:\REPOS\PT_LABS\lab_7\ConsoleApp2\obj\Debug\net5.0\ConsoleApp2.AssemblyInfoInputs.cache
+M:\REPOS\PT_LABS\lab_7\ConsoleApp2\obj\Debug\net5.0\ConsoleApp2.AssemblyInfo.cs
+M:\REPOS\PT_LABS\lab_7\ConsoleApp2\obj\Debug\net5.0\ConsoleApp2.csproj.CoreCompileInputs.cache
